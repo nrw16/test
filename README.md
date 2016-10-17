@@ -1,2 +1,2 @@
 # test
-first repo to test out functinality
+first repo to test out functionality
